@@ -1,0 +1,8 @@
+# General
+# ------------------------------------------------------------------------------
+USE_DOCKER=yes
+IPYTHONDIR=/app/.ipython
+
+OLDEST_DATE_TO_IMPORT={"months": 6}
+MATTILSYNET_BASE_URL=https://hotell.difi.no/api/json/mattilsynet/smilefjes/tilsyn
+
